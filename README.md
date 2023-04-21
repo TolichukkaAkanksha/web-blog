@@ -1,2 +1,2 @@
 # web-blog
-<a href="#">nsenthi126/phpblog</a>
+<a href="#">nsenthil26/phpblog</a>
